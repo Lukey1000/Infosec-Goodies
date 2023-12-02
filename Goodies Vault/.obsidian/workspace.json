@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63c4ab292e9a7b27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shells/MySQL write local files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technique Refreshers/Recon/Add VHOST to hosts oneliner.md",
+                "file": "Shells/MySQL write local files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technique Refreshers/Recon/Add VHOST to hosts oneliner.md",
+                "file": "Shells/MySQL write local files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technique Refreshers/Recon/Add VHOST to hosts oneliner.md"
+                "file": "Shells/MySQL write local files.md"
               }
             }
           }
@@ -155,11 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "777a0e45a97630b3",
+  "active": "63c4ab292e9a7b27",
   "lastOpenFiles": [
-    "Technique Refreshers/Recon/VHOST Fuzzing with FFUF.md",
-    "Technique Refreshers/Recon/Add VHOST to hosts oneliner.md",
     "Technique Refreshers/AD/Evil-Winrm PassTheHash.md",
+    "Shells/Untitled.md",
+    "Shells/MySQL write local files.md",
+    "Shells/Write local files (my sql).md",
+    "Technique Refreshers/Recon/Add VHOST to hosts oneliner.md",
+    "Technique Refreshers/Recon/VHOST Fuzzing with FFUF.md",
     "Technique Refreshers/AD/PowerShell as other user.md",
     "Shells/MySQL writelocalfiles PHP web shell.md",
     "Shells/MySQL write local files PHP web shell.md",
