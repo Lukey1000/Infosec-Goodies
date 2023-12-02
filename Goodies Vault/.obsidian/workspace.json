@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technique Refreshers/Recon/Add VHOST to hosts oneliner.md",
+                "file": "Red/Recon/Add VHOST to hosts oneliner.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shells/MySQL write local files.md",
+                "file": "Red/Shells/MySQL write local files.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,14 +45,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KQL Queries/AMSI events.md",
+                "file": "Blue/KQL Queries/AMSI events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f10b21948134696b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red/Local File Inclusions/Base LFI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a20ab87431ab576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red/Pivoting/xfreerdp mount drive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82d5b924d123271c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red/Pivoting/Pass the Hash with RDP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c73cb551f52caffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red/CVE's/CVE-2023-23752.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "083458f13cd66d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red/When you see x, try me/Joomla.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -118,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KQL Queries/AMSI events.md",
+                "file": "Red/When you see x, try me/Joomla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KQL Queries/AMSI events.md",
+                "file": "Red/When you see x, try me/Joomla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KQL Queries/AMSI events.md"
+                "file": "Red/When you see x, try me/Joomla.md"
               }
             }
           }
@@ -179,24 +239,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cf0ccd248f5f366",
+  "active": "083458f13cd66d68",
   "lastOpenFiles": [
-    "Shells/MySQL write local files.md",
-    "KQL Queries/AMSI events.md",
-    "KQL Queries",
+    "Red/CVE's/CVE-2023-23752.md",
+    "Red/When you see x, try me/Joomla.md",
+    "Red/When you see x, try me",
+    "Red/Pivoting/Pass the Hash with RDP.md",
+    "Red/CVE's",
+    "Red/Pivoting/xfreerdp mount drive.md",
+    "Red/Local File Inclusions/Base LFI.md",
+    "Red/Pivoting",
+    "Red/Local File Inclusions/Examples of LFI vulnerable code.md",
+    "Blue/KQL Queries/AMSI events.md",
+    "Red/Local File Inclusions",
+    "Blue",
+    "Red/Shells/MySQL write local files.md",
+    "Blue/KQL Queries",
     "Shells/Untitled",
-    "Technique Refreshers/AD/Evil-Winrm PassTheHash.md",
+    "Red/AD/Evil-Winrm PassTheHash.md",
     "Shells/Untitled.md",
     "Shells/Write local files (my sql).md",
-    "Technique Refreshers/Recon/Add VHOST to hosts oneliner.md",
-    "Technique Refreshers/Recon/VHOST Fuzzing with FFUF.md",
-    "Technique Refreshers/AD/PowerShell as other user.md",
+    "Red/Recon/Add VHOST to hosts oneliner.md",
+    "Red/Recon/VHOST Fuzzing with FFUF.md",
+    "Red/AD/PowerShell as other user.md",
     "Shells/MySQL writelocalfiles PHP web shell.md",
     "Shells/MySQL write local files PHP web shell.md",
-    "Shells",
-    "Technique Refreshers/AD",
-    "Technique Refreshers/Recon",
-    "Pasted image 20231129164253.png.md",
-    "Technique Refreshers"
+    "Red/Shells",
+    "Red/AD",
+    "Red/Recon",
+    "Pasted image 20231129164253.png.md"
   ]
 }
