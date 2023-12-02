@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technique Refreshers/AD/PowerShell as other user.md",
+                "file": "Technique Refreshers/Recon/Add VHOST to hosts oneliner.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technique Refreshers/AD/PowerShell as other user.md",
+                "file": "Technique Refreshers/Recon/Add VHOST to hosts oneliner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technique Refreshers/AD/PowerShell as other user.md",
+                "file": "Technique Refreshers/Recon/Add VHOST to hosts oneliner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technique Refreshers/AD/PowerShell as other user.md"
+                "file": "Technique Refreshers/Recon/Add VHOST to hosts oneliner.md"
               }
             }
           }
@@ -157,9 +157,13 @@
   },
   "active": "777a0e45a97630b3",
   "lastOpenFiles": [
+    "Technique Refreshers/Recon/VHOST Fuzzing with FFUF.md",
+    "Technique Refreshers/Recon/Add VHOST to hosts oneliner.md",
     "Technique Refreshers/AD/Evil-Winrm PassTheHash.md",
     "Technique Refreshers/AD/PowerShell as other user.md",
-    "Technique Refreshers/Recon/VHOST Fuzzing with FFUF.md",
+    "Shells/MySQL writelocalfiles PHP web shell.md",
+    "Shells/MySQL write local files PHP web shell.md",
+    "Shells",
     "Technique Refreshers/AD",
     "Technique Refreshers/Recon",
     "Pasted image 20231129164253.png.md",
