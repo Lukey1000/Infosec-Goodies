@@ -110,9 +110,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5dce179a3e8e5c71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISSP Notes/Domain 1 MindMap notes/1. Alignment of Security Function to Business Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef6a52e8b6214033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISSP Notes/Domain 1 MindMap notes/2. Privacy and IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dbb137994a85137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CISSP Notes/Mnemonics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -178,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red/When you see x, try me/Joomla.md",
+                "file": "CISSP Notes/Mnemonics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red/When you see x, try me/Joomla.md",
+                "file": "CISSP Notes/Mnemonics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red/When you see x, try me/Joomla.md"
+                "file": "CISSP Notes/Mnemonics.md"
               }
             }
           }
@@ -239,10 +275,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "083458f13cd66d68",
+  "active": "3dbb137994a85137",
   "lastOpenFiles": [
-    "Red/CVE's/CVE-2023-23752.md",
+    "CISSP Notes/Domain 1 MindMap notes/3. Risk Management.md",
+    "CISSP Notes/Mnemonics.md",
+    "CISSP Notes/Domain 1 MindMap notes/2. Privacy and IP.md",
+    "CISSP Notes/Domain 1 MindMap notes/1. Alignment of Security Function to Business Strategy.md",
     "Red/When you see x, try me/Joomla.md",
+    "CISSP Notes/Domain 1 MindMap notes",
+    "CISSP Notes",
+    "Red/CVE's/CVE-2023-23752.md",
     "Red/When you see x, try me",
     "Red/Pivoting/Pass the Hash with RDP.md",
     "Red/CVE's",
@@ -265,8 +307,6 @@
     "Shells/MySQL writelocalfiles PHP web shell.md",
     "Shells/MySQL write local files PHP web shell.md",
     "Red/Shells",
-    "Red/AD",
-    "Red/Recon",
     "Pasted image 20231129164253.png.md"
   ]
 }
