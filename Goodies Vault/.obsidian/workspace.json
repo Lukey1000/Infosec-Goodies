@@ -146,9 +146,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1cccd0009477317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB Writeups/Cozyhosting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CISSP Notes/Mnemonics.md",
+                "file": "HTB Writeups/Cozyhosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CISSP Notes/Mnemonics.md",
+                "file": "HTB Writeups/Cozyhosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CISSP Notes/Mnemonics.md"
+                "file": "HTB Writeups/Cozyhosting.md"
               }
             }
           }
@@ -275,10 +287,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3dbb137994a85137",
+  "active": "a1cccd0009477317",
   "lastOpenFiles": [
-    "CISSP Notes/Domain 1 MindMap notes/3. Risk Management.md",
     "CISSP Notes/Mnemonics.md",
+    "HTB Writeups/Cozyhosting.md",
+    "HTB Writeups",
+    "CISSP Notes/Domain 1 MindMap notes/3. Risk Management.md",
     "CISSP Notes/Domain 1 MindMap notes/2. Privacy and IP.md",
     "CISSP Notes/Domain 1 MindMap notes/1. Alignment of Security Function to Business Strategy.md",
     "Red/When you see x, try me/Joomla.md",
@@ -306,7 +320,6 @@
     "Red/AD/PowerShell as other user.md",
     "Shells/MySQL writelocalfiles PHP web shell.md",
     "Shells/MySQL write local files PHP web shell.md",
-    "Red/Shells",
     "Pasted image 20231129164253.png.md"
   ]
 }

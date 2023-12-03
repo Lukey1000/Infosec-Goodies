@@ -1,7 +1,5 @@
 # CISSP Mnemonics
 
-There are so many things to memorize for the CISSP. This is a collection of things I've found from others or made up to help me memorize the immense amount of things in this exam. Some of the ones I made up are very silly but that tends to help me remember them. I have found that I would remember the silly thing but not what it actually applies to so I sometimes added little sayings before the mnemonic to help remember what it was for as well.
-
 ## NIST 800-37 Risk Management Framework
 
 To help with risky business practices Please Can Superman Implode All Awful Millionaires
