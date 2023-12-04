@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Writeups/Cozyhosting.md",
+                "file": "Red/Privesc/sudo -l.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB Writeups/Cozyhosting.md",
+                "file": "Red/Privesc/sudo -l.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB Writeups/Cozyhosting.md",
+                "file": "Red/Privesc/sudo -l.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB Writeups/Cozyhosting.md"
+                "file": "Red/Privesc/sudo -l.md"
               }
             }
           }
@@ -289,8 +289,23 @@
   },
   "active": "a1cccd0009477317",
   "lastOpenFiles": [
-    "CISSP Notes/Mnemonics.md",
     "HTB Writeups/Cozyhosting.md",
+    "Red/Privesc/sudo -l.md",
+    "Red/Privesc/sudo -l bins",
+    "Red/Privesc",
+    "Pasted image 20231204194621.png",
+    "Pasted image 20231204194607.png",
+    "Pasted image 20231204194405.png",
+    "Pasted image 20231203193954.png",
+    "Pasted image 20231203192938.png",
+    "Pasted image 20231203192718.png",
+    "Pasted image 20231203192107.png",
+    "Pasted image 20231203191504.png",
+    "Pasted image 20231203191438.png",
+    "Red/Recon/Add VHOST to hosts oneliner.md",
+    "Red/Recon/VHOST Fuzzing with FFUF.md",
+    "Pasted image 20231203185411.png",
+    "CISSP Notes/Mnemonics.md",
     "HTB Writeups",
     "CISSP Notes/Domain 1 MindMap notes/3. Risk Management.md",
     "CISSP Notes/Domain 1 MindMap notes/2. Privacy and IP.md",
@@ -310,13 +325,9 @@
     "Red/Local File Inclusions",
     "Blue",
     "Red/Shells/MySQL write local files.md",
-    "Blue/KQL Queries",
-    "Shells/Untitled",
     "Red/AD/Evil-Winrm PassTheHash.md",
     "Shells/Untitled.md",
     "Shells/Write local files (my sql).md",
-    "Red/Recon/Add VHOST to hosts oneliner.md",
-    "Red/Recon/VHOST Fuzzing with FFUF.md",
     "Red/AD/PowerShell as other user.md",
     "Shells/MySQL writelocalfiles PHP web shell.md",
     "Shells/MySQL write local files PHP web shell.md",
