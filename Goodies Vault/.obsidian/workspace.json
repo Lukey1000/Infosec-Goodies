@@ -153,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red/Privesc/sudo -l.md",
+                "file": "CISSP Notes/Domain 2 Mindmap Notes/1. Asset Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red/Privesc/sudo -l.md",
+                "file": "CISSP Notes/Domain 2 Mindmap Notes/1. Asset Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red/Privesc/sudo -l.md",
+                "file": "CISSP Notes/Domain 2 Mindmap Notes/1. Asset Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red/Privesc/sudo -l.md"
+                "file": "CISSP Notes/Domain 2 Mindmap Notes/1. Asset Classification.md"
               }
             }
           }
@@ -289,8 +289,10 @@
   },
   "active": "a1cccd0009477317",
   "lastOpenFiles": [
-    "HTB Writeups/Cozyhosting.md",
     "Red/Privesc/sudo -l.md",
+    "CISSP Notes/Domain 2 Mindmap Notes/1. Asset Classification.md",
+    "CISSP Notes/Domain 2 Mindmap Notes",
+    "HTB Writeups/Cozyhosting.md",
     "Red/Privesc/sudo -l bins",
     "Red/Privesc",
     "Pasted image 20231204194621.png",
@@ -323,7 +325,6 @@
     "Red/Local File Inclusions/Examples of LFI vulnerable code.md",
     "Blue/KQL Queries/AMSI events.md",
     "Red/Local File Inclusions",
-    "Blue",
     "Red/Shells/MySQL write local files.md",
     "Red/AD/Evil-Winrm PassTheHash.md",
     "Shells/Untitled.md",
