@@ -1,0 +1,9 @@
+- Logs
+	- MoveIt
+	- IIS
+	- Windows Event
+	- Powershell Consolehost
+- Mysql dump of Moveit
+- VMEM file (No VMSS for volatility)
+- Registry hives (SAM - dump credentials)
+- MFT (Use MFTEcmd)

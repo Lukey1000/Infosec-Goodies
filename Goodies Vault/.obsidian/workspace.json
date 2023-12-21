@@ -31,12 +31,8 @@
             "id": "63c4ab292e9a7b27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red/Shells/MySQL write local files.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -76,18 +72,6 @@
             }
           },
           {
-            "id": "82d5b924d123271c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red/Pivoting/Pass the Hash with RDP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c73cb551f52caffe",
             "type": "leaf",
             "state": {
@@ -112,55 +96,39 @@
             }
           },
           {
-            "id": "5dce179a3e8e5c71",
+            "id": "b64dfac25d324434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISSP Notes/Domain 1 MindMap notes/1. Alignment of Security Function to Business Strategy.md",
+                "file": "HTB Writeups/Sherlocks/Iliketo/01 - Commands and Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef6a52e8b6214033",
+            "id": "7a9e6422713b4695",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISSP Notes/Domain 1 MindMap notes/2. Privacy and IP.md",
+                "file": "HTB Writeups/Sherlocks/Iliketo/20 - IIS Logs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3dbb137994a85137",
+            "id": "ba53a17378ffd7fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CISSP Notes/Mnemonics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1cccd0009477317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CISSP Notes/Domain 2 Mindmap Notes/1. Asset Classification.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -226,7 +194,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CISSP Notes/Domain 2 Mindmap Notes/1. Asset Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +210,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CISSP Notes/Domain 2 Mindmap Notes/1. Asset Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,9 +231,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CISSP Notes/Domain 2 Mindmap Notes/1. Asset Classification.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -287,12 +251,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1cccd0009477317",
+  "active": "ba53a17378ffd7fb",
   "lastOpenFiles": [
-    "Red/Privesc/sudo -l.md",
-    "CISSP Notes/Domain 2 Mindmap Notes/1. Asset Classification.md",
+    "HTB Writeups/Sherlocks/Iliketo/Questions/zz14 - What was the string within the title header of the webshell deployed by the TA.md",
+    "HTB Writeups/Sherlocks/Iliketo/70 - strings vmem.md",
+    "HTB Writeups/Sherlocks/Iliketo/Questions/zz15 - What did the TA change the our moveitsvc account password to.md",
+    "HTB Writeups/Sherlocks/Iliketo/99 - MFT.md",
+    "HTB Writeups/Sherlocks/Iliketo/Questions/zz10 - Please confirm the date and time the attacker remotely accessed the compromised machine.md",
+    "HTB Writeups/Sherlocks/Iliketo/22 - evtx.md",
+    "HTB Writeups/Sherlocks/Iliketo/30 - Metasploit Module.md",
+    "HTB Writeups/Sherlocks/Iliketo/25 - PowerShell.md",
+    "Pasted image 20231221134728.png",
+    "HTB Writeups/Sherlocks/Iliketo/Questions/zz08 - We suspect the attacker may have changed the password for our service account. Please confirm the time this occurred (UTC).md",
+    "HTB Writeups/Sherlocks/Iliketo/Questions/zz09 - Which protocol did the attacker utilize to remote into the compromised machine.md",
+    "Pasted image 20231221132330.png",
+    "HTB Writeups/Sherlocks/Iliketo/10 - Credentials.md",
+    "HTB Writeups/Sherlocks/Iliketo/60 - mysql.md",
+    "HTB Writeups/Sherlocks/Iliketo/Questions/zz12 - What is the inst ID of the attacker.md",
+    "HTB Writeups/Sherlocks/Iliketo/Questions/zz13 - What command was run by the attacker to retrieve the webshell.md",
+    "HTB Writeups/Sherlocks/Iliketo/Questions/zz05 - The attacker uploaded an ASP webshell which didn't work, what is its filesize in bytes.md",
+    "HTB Writeups/Sherlocks/Iliketo/Questions/zz04 - When was the ASPX webshell uploaded by the attacker.md",
+    "HTB Writeups/Sherlocks/Iliketo/Questions/zz07 - Which tool did the attacker use to initially enumerate the vulnerable server.md",
+    "HTB Writeups/Sherlocks/Iliketo/Questions/zz11 - What was the useragent that the attacker used to access the webshell.md",
+    "HTB Writeups/Sherlocks/Iliketo/Questions/zz03 - What user agent was used to perform the initial attack.md",
+    "HTB Writeups/Sherlocks/Iliketo/Questions/zz02 - What was the attacker's IP address.md",
+    "HTB Writeups/Sherlocks/Iliketo/Questions/zz01 - Name of the ASPX webshell uploaded by the attacker.md",
+    "HTB Writeups/Sherlocks/Iliketo/20 - IIS Logs.md",
+    "HTB Writeups/Sherlocks/Iliketo/30 - Metasploit Module",
+    "HTB Writeups/Sherlocks/Iliketo/Untitled.md",
+    "HTB Writeups/Sherlocks/Iliketo/Questions",
+    "HTB Writeups/Sherlocks",
+    "HTB Writeups/Sherlocks/Iliketo/01 - Commands and Tools.md",
+    "HTB Writeups/Sherlocks/Iliketo/00 - What we have.md",
+    "HTB Writeups/Sherlocks/Iliketo",
     "CISSP Notes/Domain 2 Mindmap Notes",
-    "HTB Writeups/Cozyhosting.md",
     "Red/Privesc/sudo -l bins",
     "Red/Privesc",
     "Pasted image 20231204194621.png",
@@ -303,35 +295,8 @@
     "Pasted image 20231203192718.png",
     "Pasted image 20231203192107.png",
     "Pasted image 20231203191504.png",
-    "Pasted image 20231203191438.png",
-    "Red/Recon/Add VHOST to hosts oneliner.md",
-    "Red/Recon/VHOST Fuzzing with FFUF.md",
-    "Pasted image 20231203185411.png",
-    "CISSP Notes/Mnemonics.md",
     "HTB Writeups",
-    "CISSP Notes/Domain 1 MindMap notes/3. Risk Management.md",
-    "CISSP Notes/Domain 1 MindMap notes/2. Privacy and IP.md",
-    "CISSP Notes/Domain 1 MindMap notes/1. Alignment of Security Function to Business Strategy.md",
-    "Red/When you see x, try me/Joomla.md",
     "CISSP Notes/Domain 1 MindMap notes",
-    "CISSP Notes",
-    "Red/CVE's/CVE-2023-23752.md",
-    "Red/When you see x, try me",
-    "Red/Pivoting/Pass the Hash with RDP.md",
-    "Red/CVE's",
-    "Red/Pivoting/xfreerdp mount drive.md",
-    "Red/Local File Inclusions/Base LFI.md",
-    "Red/Pivoting",
-    "Red/Local File Inclusions/Examples of LFI vulnerable code.md",
-    "Blue/KQL Queries/AMSI events.md",
-    "Red/Local File Inclusions",
-    "Red/Shells/MySQL write local files.md",
-    "Red/AD/Evil-Winrm PassTheHash.md",
-    "Shells/Untitled.md",
-    "Shells/Write local files (my sql).md",
-    "Red/AD/PowerShell as other user.md",
-    "Shells/MySQL writelocalfiles PHP web shell.md",
-    "Shells/MySQL write local files PHP web shell.md",
-    "Pasted image 20231129164253.png.md"
+    "CISSP Notes"
   ]
 }
